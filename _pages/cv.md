@@ -11,22 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Engg. in Electronics and Telecommunication Engineering, University of Liberal Arts Bangladesh, 2018
+* M.S. in Software, Gachon University, 2021
+* Ph.D in Software, Gachon University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March, 2019 - Present: Research Staff
+  * Computer Vision and Image Processing Lab, Gachon University
+  * Researches included: Image inpainting, stereo depth estimation and event-based cameras
+  * Supervisor: Professor Yong Ju Jung
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* June, 2018 - December, 2018: Business Development Analyst
+  * Kazi IT Center
+  * Duties included: Work order analysis, potential business developments and inspection
+
+* February, 2019 - June, 2019: Teaching Assistant
+  * Department of Electrical and Electronics, University of Liberal Arts Bangladesh
+  * Courses: Control System Engineering, Power Electronics, Wireless Communication and Chemistry.
+  * Responsibilities included: Preparing questionnaires, evaluating responses, assisting academic documentation and taking lab classes.
+
 Skills
 ======
 * Skill 1
@@ -41,19 +45,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
