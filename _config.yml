@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Nadim's Whiteboard"
 title_separator          : "-"
-name                     : "Sayed Nadim"
-description              : "My journey to understand AI"
+name                     : &name "Sayed Nadim"
+description              : &description "My journey to understand AI"
 url                      : https://sayednadim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sayednadim/sayednadim.github.io"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "S M Nadim Uddin"
-  avatar           : "profile.png"
+  avatar           : "images/nadim.png"
   bio              : "PhD Student, Computer Vison and Image Processing Lab, Gachon University, Korea."
   location         : "South Korea."
-  employer         :
+  supervisor       : Prof. Yong Ju Jung, Gachon University.
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=q3ETssUAAAAJ&hl=en"
   email            : "smnadimuddin@gmail.com"
