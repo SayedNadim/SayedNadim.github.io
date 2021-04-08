@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Nadim's Whiteboard"
 title_separator          : "-"
-name                     : &name "Sayed Nadim"
-description              : &description "My journey to understand AI"
+name                     : "Sayed Nadim"
+description              : "My journey to understand AI"
 url                      : https://sayednadim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sayednadim/sayednadim.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "South Korea."
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=q3ETssUAAAAJ&hl=ko"
+  googlescholar    : "https://scholar.google.com/citations?user=q3ETssUAAAAJ&hl=en"
   email            : "smnadimuddin@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/S-M-Nadim-Uddin" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
