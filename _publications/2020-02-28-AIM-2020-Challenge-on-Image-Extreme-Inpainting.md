@@ -1,7 +1,7 @@
 ---
 title: "AIM 2020 Challenge on Image Extreme Inpainting"
 collection: publications/Conference
-permalink: /publication/Conference/2020-08-28-AIM-2020-Challenge-on-Image-Extreme-Inpainting
+permalink: /publication/2020-08-28-AIM-2020-Challenge-on-Image-Extreme-Inpainting
 excerpt: 'This paper reviews the AIM 2020 challenge on extreme image inpainting.'
 date: 2020-08-28
 venue: 'European Conference on Computer Vision'
