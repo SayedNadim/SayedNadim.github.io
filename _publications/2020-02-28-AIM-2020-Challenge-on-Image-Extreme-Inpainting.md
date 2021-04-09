@@ -2,7 +2,7 @@
 title: "AIM 2020 Challenge on Image Extreme Inpainting"
 collection: publications
 permalink: /publication/2020-08-28-AIM-2020-Challenge-on-Image-Extreme-Inpainting
-excerpt: 'This paper reviews the AIM 2020 challenge on extreme image inpainting.'
+excerpt: 'Evangelos Ntavelis, Andr´es Romero, Siavash Bigdeli, Radu Timofte,..., *Uddin S. M. Nadim* , Hae Woong Jang, Soikat Hasan Ahmed, Jungmin Yoon, Yong Ju Jung..., Pratik Narang, Murari Mandal and Pranjal Singh Chauhan.'
 date: 2020-08-28
 venue: 'European Conference on Computer Vision'
 ---
