@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-08-28-AIM-2020-Challenge-on-Image-Extreme-Inpainting
 excerpt: 'This paper reviews the AIM 2020 challenge on extreme image inpainting.'
 date: 2020-08-28
-venue: 'European Conference on Computer Vision, 2020'
+venue: 'European Conference on Computer Vision'
 paperurl: 'https://arxiv.org/pdf/2010.01110.pdf'
 ---
 ##### Abstract
@@ -16,13 +16,12 @@ Evangelos Ntavelis, Andr´es Romero, Siavash Bigdeli, Radu Timofte,..., Uddin S.
 [Download paper here](https://arxiv.org/pdf/2010.01110.pdf)
 
 ---
-'''
-citation: '@inproceedings{ntavelis2020aim,
-  title={AIM 2020 challenge on image extreme inpainting},
-  author={Ntavelis, Evangelos and Romero, Andr{\'e}s and Bigdeli, Siavash and Timofte, Radu and Hui, Zheng and Wang, Xiumei and Gao, Xinbo and Shin, Chajin and Kim, Taeoh and Son, Hanbin and others},
-  booktitle={European Conference on Computer Vision},
-  pages={716--741},
-  year={2020},
-  organization={Springer}
-}'
-'''
+>
+>citation: '@inproceedings{ntavelis2020aim,
+>  title={AIM 2020 challenge on image extreme inpainting},
+>  author={Ntavelis, Evangelos and Romero, Andr{\'e}s and Bigdeli, Siavash and Timofte, Radu and Hui, Zheng and Wang, Xiumei and Gao, Xinbo and Shin, Chajin and Kim, Taeoh and Son, Hanbin and others},
+>  booktitle={European Conference on Computer Vision},
+>  pages={716--741},
+>  year={2020},
+>  organization={Springer}
+}
