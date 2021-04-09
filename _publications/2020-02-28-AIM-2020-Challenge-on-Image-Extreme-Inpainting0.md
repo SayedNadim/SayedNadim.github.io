@@ -15,7 +15,7 @@ Evangelos Ntavelis, Andr´es Romero, Siavash Bigdeli, Radu Timofte,..., Uddin S.
 [Download paper here](https://arxiv.org/pdf/2010.01110.pdf)
 
 ---
-citation:
+Citation:
 ```
 @inproceedings{ntavelis2020aim,
 title={AIM 2020 challenge on image extreme inpainting},
