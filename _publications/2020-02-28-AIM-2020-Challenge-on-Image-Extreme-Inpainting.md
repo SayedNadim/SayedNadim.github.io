@@ -15,6 +15,9 @@ citation: '@inproceedings{ntavelis2020aim,
   organization={Springer}
 }'
 ---
+**Abstract
+This paper reviews the AIM 2020 challenge on extreme im-age  inpainting.  This  report  focuses  on  proposed  solutions  and  resultsfor two different tracks on extreme image inpainting: classical image in-painting and semantically guided image inpainting. The goal of track 1is to inpaint large part of the image with no supervision. Similarly, thegoal  of  track  2  is  to  inpaint  the  image  by  having  access  to  the  entiresemantic segmentation map of the input. The challenge had 88 and 74participants, respectively. 11 and 6 teams competed in the final phase ofthe challenge, respectively. This report gauges current solutions and seta benchmark for future extreme image inpainting methods.
+---
 Evangelos Ntavelis, Andr´es Romero, Siavash Bigdeli, Radu Timofte,..., Uddin S. M. Nadim, Hae Woong Jang, Soikat Hasan Ahmed, Jungmin Yoon, Yong Ju Jung..., Pratik Narang, Murari Mandal and Pranjal Singh Chauhan
 
 [Download paper here](https://arxiv.org/pdf/2010.01110.pdf)
