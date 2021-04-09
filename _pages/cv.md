@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Engg. in Electronics and Telecommunication Engineering, University of Liberal Arts Bangladesh, 2018
-* M.S. in Software, Gachon University, 2021
 * Ph.D in Software, Gachon University, 2024 (expected)
+* M.S. in Software, Gachon University, 2021
+* B.Engg. in Electronics and Telecommunication Engineering, University of Liberal Arts Bangladesh, 2018
 
 Work experience
 ======
@@ -23,11 +23,11 @@ Work experience
   * Supervisor: Professor Yong Ju Jung
 
 * June, 2018 - December, 2018: Business Development Analyst
-  * Kazi IT Center
+  * Kazi IT Center, Dhaka, Bangladesh.
   * Duties included: Work order analysis, potential business developments and inspection
 
 * February, 2019 - June, 2019: Teaching Assistant
-  * Department of Electrical and Electronics, University of Liberal Arts Bangladesh
+  * Department of Electrical and Electronics Engineering, University of Liberal Arts Bangladesh
   * Courses: Control System Engineering, Power Electronics, Wireless Communication and Chemistry.
   * Responsibilities included: Preparing questionnaires, evaluating responses, assisting academic documentation and taking lab classes.
 
